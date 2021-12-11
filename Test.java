@@ -16,6 +16,7 @@ public class Test {
 		return result;
 	}
 
+
 	//1フレームで投げた回数
 	//返り値 int
 	static int countShot(int frame[]){
